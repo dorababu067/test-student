@@ -3,7 +3,7 @@ class Student:
         print("getStudent method implemented")
     
     def addStudent(self):
-        pass
+        print("add student methodimplemented"
     
     def ediStudent(self):
         pass
