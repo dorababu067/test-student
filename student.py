@@ -1,6 +1,6 @@
 class Student:
     def getStudent(self):
-        pass
+        print("getStudent method implemented")
     
     def addStudent(self):
         pass
