@@ -7,3 +7,4 @@ class Student:
     
     def ediStudent(self):
         print("new method implemented")
+        print("new method implemented")
