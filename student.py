@@ -6,4 +6,4 @@ class Student:
         print("add student methodimplemented")
     
     def ediStudent(self):
-        pass
+        print("new method implemented")
